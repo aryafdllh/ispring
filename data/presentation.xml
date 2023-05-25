@@ -1,0 +1,313 @@
+<?xml version="1.0"?>
+<presentation title="BUDI DAYA TANAMAN OBAT" width="1440.0000000" height="810.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{FD2A11D7-41FE-4D0F-AB09-FA139B8002BC}">
+	<presenters/>
+	<references/>
+	<soundAssets/>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration/>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<currentTemplate id="FULL"/>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="true"/>
+					<button type="presenterInfo" visible="true"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>false</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>false</showPresenterInfo>
+				<showPresenterVideo>true</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>true</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="31227" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>di sini ada yang pernah minum jamu?</notes>
+			<notesNormalized>di sini ada yang pernah minum jamu?</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;di sini ada yang pernah minum jamu?&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>BUDI DAYA TANAMAN OBAT
+Muhammad Arya Fadillah
+1710131310023</text>
+		</slide>
+		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="23221" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="CoverLeftUp" duration="1.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>adalah jenis tanaman yang sebagian atau seluruh tanamannya digunakan sebagai obat, bahan atau ramuan obat-obatan.
+Tanaman Obat</text>
+		</slide>
+		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="20288" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="CoverRightUp" duration="1.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Jenis jenis Tanaman obat
+Rimpang
+Daun
+Buah
+Bunga
+Akar
+Batang
+Biji
+Berikut contoh beberapa jenis tanaman obat berdasarkan bagian yang dimanfaatkan :</text>
+		</slide>
+		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="43111" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>jahe ini merupakan contoh salah satu jenis tumbuhan obat yang memanfaatkan rimpangnya. selain di gunakan untuk obat jahe juga dapat di gunakan untuk rempah masakan, biasanya jahe dikonsumsi untuk memperkuat sistem imun, mengatasi bakteri dan virus, serta dapat mengatasi masalah pencernaan.</notes>
+			<notesNormalized>jahe ini merupakan contoh salah satu jenis tumbuhan obat yang memanfaatkan rimpangnya. selain di gunakan untuk obat jahe juga dapat di gunakan untuk rempah masakan, biasanya jahe dikonsumsi untuk memperkuat sistem imun, mengatasi bakteri dan virus, serta dapat mengatasi masalah pencernaan.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;jahe ini merupakan contoh salah satu jenis tumbuhan obat yang memanfaatkan rimpangnya. selain di gunakan untuk obat jahe juga dapat di gunakan untuk rempah masakan, biasanya jahe dikonsumsi untuk memperkuat sistem imun, mengatasi bakteri dan virus, serta dapat mengatasi masalah pencernaan.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>JAHE
+jahe ini merupakan contoh salah satu jenis tumbuhan obat yang memanfaatkan rimpangnya. selain di gunakan untuk obat jahe juga dapat di gunakan untuk rempah masakan, biasanya jahe dikonsumsi untuk memperkuat sistem imun, mengatasi bakteri dan virus, serta dapat mengatasi masalah pencernaan.</text>
+		</slide>
+		<slide index="4" title="" titleNormalized="" src="slide5.swf" size="48181" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="PushLeft" duration="1.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>Kunyit (Curcuma domestica) merupakan tanaman rempah seerta obat yang
+berasal dari asia tenggara. kunyit banyak digunakan di Indonesia dan bangsa lain
+sebagai pelengkap bumbu masakan, jamu, atau untuk menjaga kesehatan seperti mengobati maag, mengatasi perut yang kembung dan meningkatkan daya tahan tubuh.</notes>
+			<notesNormalized>kunyit (curcuma domestica) merupakan tanaman rempah seerta obat yang
+berasal dari asia tenggara. kunyit banyak digunakan di indonesia dan bangsa lain
+sebagai pelengkap bumbu masakan, jamu, atau untuk menjaga kesehatan seperti mengobati maag, mengatasi perut yang kembung dan meningkatkan daya tahan tubuh.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Kunyit (Curcuma domestica) merupakan tanaman rempah seerta obat yang&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;berasal dari asia tenggara. kunyit banyak digunakan di Indonesia dan bangsa lain&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;sebagai pelengkap bumbu masakan, jamu, atau untuk menjaga kesehatan seperti mengobati maag, mengatasi perut yang kembung dan meningkatkan daya tahan tubuh.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>KUNYIT
+Kunyit (Curcuma domestica) merupakan tanaman rempah seerta obat yang
+berasal dari asia tenggara. kunyit banyak digunakan di Indonesia dan bangsa lain
+sebagai pelengkap bumbu masakan, jamu, atau untuk menjaga kesehatan seperti mengobati maag, mengatasi perut yang kembung dan meningkatkan daya tahan tubuh.</text>
+		</slide>
+		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="8767" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Sarana produksi budi daya tanaman obat
+Menanam di Kebun/Pekarangan
+Menanam di lahan terbatas/ tidak ada lahan
+Bahan
+Benih atau bibit tanaman
+Pupuk
+Media tanam
+Pestisida
+Peralatan
+Berikut ini bahan dan alat untuk budi daya tanaman obat sesuai dengan tempat budidayanya :</text>
+		</slide>
+		<slide index="6" title="" titleNormalized="" src="slide7.swf" size="3162" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="PushLeft" duration="1.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Tahapan budi daya tanaman obat
+a. Pembibitan
+c. Penanaman
+b. Pengelolaan tanah
+d. Pemeliharaan
+e. Panen dan pascapanen</text>
+		</slide>
+		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="12391" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Tugas Individu
+Diskusikanlah!
+1. Jenis tanaman obat yang ada disekitarmu? Carilah gambar tanaman tersebut, bagian yang dimanfaatkan, dan kegunaannya untuk kesehatan.
+2. Setelah selesai, jelaskanlah hasil kerjaan kalian di depan kelas.</text>
+		</slide>
+		<slide index="8" title="" titleNormalized="" src="slide9.swf" size="13410" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>TERIMA KASIH</text>
+		</slide>
+	</slides>
+</presentation>
